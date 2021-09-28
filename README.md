@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Al-Hadi-Al-Husseini
-- 👀 I’m interested in Full-stack web development , data-structures and algorithms,  programing-languages
+- 👀 I’m interested in Cloud Computing , data-structures and algorithms,  AI
 - 🌱 I’m currently learning back-end with python and node.js
-- 💞️ I’m looking to collaborate on porjectsthat will me learn about web-development and about networking with python-sockets
+- 💞️ I’m looking to collaborate on porjects that will make  me learn about Cloud Computing and Go-lang
 - 📫 How to reach alihadi.alhusseini@gmail.com
 
 <!---
