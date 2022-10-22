@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Al-Hadi-Al-Husseini
 - 👀 I’m interested in Cloud Computing , api development and,AI
-- 🌱 I’m currently learning api deveopment with python and go.
+- 🌱 I’m currently learning api development with python and go.
 - 💞️ I’m looking to collaborate on porjects that will make  me learn about API and Go
 - 📫 How to reach alihadi.alhusseini@gmail.com
 
